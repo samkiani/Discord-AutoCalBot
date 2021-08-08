@@ -1,5 +1,5 @@
 # Discord-AutoCalBot
-The first persian calendar bot that changes own nick name and connect to voice channel
+The first `Persian` calendar bot that changes its nickname and connects to a voice channel
 
 
 
