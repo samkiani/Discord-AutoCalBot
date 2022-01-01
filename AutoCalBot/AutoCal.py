@@ -5,9 +5,9 @@ import datetime
 from asyncio import sleep
 
 class CONFIG:
-    TOKEN = '' #str
-    GUILD_ID = 0 #int
-    CHANNEL_ID = 0 #int
+    TOKEN ='OTI2ODI0ODM2MTQyMDg0MTE4.YdBS5A.1x5_pMblFctapdFRRgMyN_eACw0' #str
+    GUILD_ID = 926824836142084118 #int
+    CHANNEL_ID = 926828389145382922 #int
 
 client = discord.Client()
 
